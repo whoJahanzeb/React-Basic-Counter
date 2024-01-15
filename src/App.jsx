@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>wefwefwefwef</h1>
+      <h1>This is first h1 tag in react JS.</h1>
     </>
   );
 }
